@@ -6,7 +6,7 @@ A real-time automotive safety monitoring system demonstrating AUTOSAR (AUTomotiv
 
 This project simulates a vehicle safety monitoring system that processes sensor data and triggers alerts based on predefined safety thresholds. It demonstrates proper AUTOSAR layering, component separation, and real-time data processing.
 
-## 🏗️ Architecture
+## Architecture
 
 ### AUTOSAR Layers
 ```
@@ -150,10 +150,6 @@ This project demonstrates:
 - [ ] Unit tests with mock sensors
 - [ ] MISRA C compliance checking
 
-## 👤 Author
-
-Alonzo 
-- GitHub: github.com/AlCodes808
 
 
 **Note:** This is a simulation for demonstration purposes. Sensor data is randomly generated to showcase the monitoring and alert system capabilities.
